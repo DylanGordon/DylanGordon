@@ -10,6 +10,7 @@ Welcome to my GitHub! I'm a passionate developer with experience in building mod
 - **Python** 🐍
 - **Go** 🦫
 - **JavaScript** ⚡
+- **HTML** 🔤
 
 ### 🗄️ Known Database Systems
 - **SQL (PostgreSQL, MySQL)** 🐘
